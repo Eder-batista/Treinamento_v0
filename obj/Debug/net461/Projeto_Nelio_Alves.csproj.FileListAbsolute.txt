@@ -362,4 +362,3 @@ C:\Users\EderAparecidoBatista\source\repos\Projeto_Nelio_Alves\Projeto_Nelio_Alv
 C:\Users\EderAparecidoBatista\source\repos\Projeto_Nelio_Alves\Projeto_Nelio_Alves\bin\Debug\net461\System.Composition.TypedParts.dll
 C:\Users\EderAparecidoBatista\source\repos\Projeto_Nelio_Alves\Projeto_Nelio_Alves\bin\Debug\net461\System.Data.SqlClient.dll
 C:\Users\EderAparecidoBatista\source\repos\Projeto_Nelio_Alves\Projeto_Nelio_Alves\bin\Debug\net461\System.Interactive.Async.dll
-C:\Users\EderAparecidoBatista\source\repos\Projeto_Nelio_Alves\Projeto_Nelio_Alves\obj\Debug\net461\Razor\Views\Departaments\Index.cshtml.g.cs
