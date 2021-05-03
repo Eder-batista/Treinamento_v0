@@ -1,10 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Projeto_Nelio_Alves.Models;
+using Projeto_Nelio_Alves.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+
 
 namespace Projeto_Nelio_Alves.Controllers
 {
@@ -17,7 +18,8 @@ namespace Projeto_Nelio_Alves.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Salles Web mvc App from C# Cource";
+            ViewData["Aluno"] = "Eder batista";
 
             return View();
         }
