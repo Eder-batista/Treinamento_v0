@@ -60,6 +60,7 @@
           "System.IO.Compression.FileSystem": "4.0.0.0",
           "System.Numerics": "4.0.0.0",
           "System.Runtime.Serialization": "4.0.0.0",
+          "System.Web.Mobile": "4.0.0.0",
           "System.Xml": "4.0.0.0",
           "System.Xml.Linq": "4.0.0.0",
           "System.Reflection.Emit": "0.0.0.0",
@@ -251,6 +252,11 @@
       "System.Runtime.Serialization/4.0.0.0": {
         "compile": {
           ".NETFramework/v4.6.1/System.Runtime.Serialization.dll": {}
+        }
+      },
+      "System.Web.Mobile/4.0.0.0": {
+        "compile": {
+          ".NETFramework/v4.6.1/System.Web.Mobile.dll": {}
         }
       },
       "System.Xml/4.0.0.0": {
@@ -2160,6 +2166,7 @@
           "System.IO.Compression.FileSystem": "4.0.0.0",
           "System.Numerics": "4.0.0.0",
           "System.Runtime.Serialization": "4.0.0.0",
+          "System.Web.Mobile": "4.0.0.0",
           "System.Xml": "4.0.0.0",
           "System.Xml.Linq": "4.0.0.0",
           "System.Reflection.Emit": "0.0.0.0",
@@ -4954,6 +4961,11 @@
       "sha512": ""
     },
     "System.Runtime.Serialization/4.0.0.0": {
+      "type": "referenceassembly",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Web.Mobile/4.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
